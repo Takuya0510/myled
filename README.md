@@ -66,5 +66,5 @@ $ sudo rmmod myled
 #実行動画  
 https://youtu.be/CmudLQUuPwc
 
-
+#ライセンス
 
