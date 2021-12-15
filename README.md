@@ -64,7 +64,7 @@ $ sudo rmmod myled
 
 
 #実行動画  
-https://youtu.be/CmudLQuuPwc
+https://youtu.be/CmudLQUuPwc
 
 
 
