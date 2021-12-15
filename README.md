@@ -66,6 +66,6 @@ $ sudo rmmod myled
 #実行動画  
 https://youtu.be/CmudLQUuPwc
 
-#ライセンス　　
+#ライセンス  
 https://github.com/Takuya0510/myled/blob/main/COPYING
 
