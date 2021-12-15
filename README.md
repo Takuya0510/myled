@@ -34,35 +34,35 @@ $ sudo chmod 666 /dev/myled0
 
 実行できたら、次のようなコマンドでLEDを点灯したり消灯したりすることができます。
 
-・すべてのLEDを消灯　　
+・すべてのLEDを消灯   
 $ echo 0 >/dev/myled  
 
-・LED1を点灯
+・LED1を点灯  
 $ echo 1 >/dev/myled  
 
-・LED2を点灯
+・LED2を点灯  
 $ echo 2 >/dev/myled  
 
-・LED3を点灯
+・LED3を点灯  
 $ echo 3 >/dev/myled  
 
-・すべてのLEDを点灯
+・すべてのLEDを点灯  
 $ echo 4 >/dev/myled  
 
-・LED1を消灯
+・LED1を消灯  
 $ echo 5 >/dev/myled  
 
-・LED2を消灯
+・LED2を消灯  
 $ echo 6 >/dev/myled  
 
-・LED3を消灯
+・LED3を消灯  
 $ echo 7 >/dev/myled 
 
-使用し終わったら次のようなコマンドを実行してください。  
+使用し終わったら次のようなコマンドを実行してください。    
 $ sudo rmmod myled  
 
 
-#実行動画　
+#実行動画  　
 
 
 #ライセンス　　
