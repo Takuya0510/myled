@@ -63,30 +63,8 @@ $ echo 7 >/dev/myled
 $ sudo rmmod myled  
 
 
-#実行動画  　
-
-
-#ライセンス　　
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#実行動画  
+https://youtu.be/CmudLQuuPwc
 
 
 
