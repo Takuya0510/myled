@@ -23,7 +23,8 @@
 「引用元」https://www.raspberrypi.com/documentation/computers/os.html  
 
 #動作方法  
-まず、Makefileとmake.cをubuntu環境のRaspberry pi 4 model Bの中に作成します。　　
+まず、https://github.com/Takuya0510/myledに置いてある、Makefileとmake.cをubuntu環境のRaspberry pi 4 model Bの中に作成します。　
+
 
 
 
