@@ -10,8 +10,8 @@
 ・Raspberry pi 4 model B  
 ・青色LED × 3  
 ・抵抗120Ω × 3  
-・サンハヤト SAD-101 ニューブレッドボード  
 ・ジャンパー線 (オス-メス) × 6  
+・サンハヤト SAD-101 ニューブレッドボード  
 
 # 回路写真　
 ![写真 2021-12-15 2 33 28](https://user-images.githubusercontent.com/92074076/146102575-dc29f36f-8f6b-4149-b6ae-3f1180e335e2.jpg)  
