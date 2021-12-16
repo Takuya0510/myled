@@ -22,7 +22,7 @@
 
 # Raspberry pi 4 model B ピン情報
 ![写真 2021-12-15 9 06 34](https://user-images.githubusercontent.com/92074076/146102730-a546b294-07fd-4479-9a73-1182afaac0f3.png)  
-「引用元」https://www.raspberrypi.com/documentation/computers/os.html  
+「引用元」(https://www.raspberrypi.com/documentation/computers/os.html)  
 
 
 # 動作方法  
@@ -64,8 +64,8 @@
 
 
 # 実行動画  
-https://youtu.be/CmudLQUuPwc
+[Youtube](https://youtu.be/CmudLQUuPwc)
 
 # ライセンス  
-https://github.com/Takuya0510/myled/blob/main/COPYING
+[COPYING](https://github.com/Takuya0510/myled/blob/main/COPYING)
 
