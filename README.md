@@ -11,7 +11,7 @@
 ・青色LED × 3  
 ・抵抗120Ω × 3  
 ・サンハヤト SAD-101 ニューブレッドボード  
-・ジャンパ戦 (オス-メス) × 6  
+・ジャンパー線 (オス-メス) × 6  
 
 
 # 回路図　　　　
@@ -62,10 +62,9 @@
 使用し終わったら次のようなコマンドを実行してください。    
 `$ sudo rmmod myled`  
 
+# ライセンス  
+[COPYING](https://github.com/Takuya0510/myled/blob/main/COPYING)  
 
 # 実行動画  
 Youtube (https://youtu.be/CmudLQUuPwc)  
-
-# ライセンス  
-[COPYING](https://github.com/Takuya0510/myled/blob/main/COPYING)  
 
