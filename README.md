@@ -13,12 +13,11 @@
 ・サンハヤト SAD-101 ニューブレッドボード  
 ・ジャンパー線 (オス-メス) × 6  
 
+# 写真　
+![写真 2021-12-15 2 33 28](https://user-images.githubusercontent.com/92074076/146102575-dc29f36f-8f6b-4149-b6ae-3f1180e335e2.jpg)  
 
 # 回路図　　　　
 ![EPSON001](https://user-images.githubusercontent.com/92074076/146102391-745d32bd-ee30-47b6-9278-a9252a092b44.JPG)  
-
-# 写真　
-![写真 2021-12-15 2 33 28](https://user-images.githubusercontent.com/92074076/146102575-dc29f36f-8f6b-4149-b6ae-3f1180e335e2.jpg)　　
 
 # Raspberry pi 4 model B ピン情報
 ![写真 2021-12-15 9 06 34](https://user-images.githubusercontent.com/92074076/146102730-a546b294-07fd-4479-9a73-1182afaac0f3.png)  
