@@ -22,51 +22,50 @@
 
 # Raspberry pi 4 model B ピン情報
 ![写真 2021-12-15 9 06 34](https://user-images.githubusercontent.com/92074076/146102730-a546b294-07fd-4479-9a73-1182afaac0f3.png)  
-
 「引用元」https://www.raspberrypi.com/documentation/computers/os.html  
 
 
-#動作方法  
+# 動作方法  
 まず、[https://github.com/Takuya0510/myled] に置いてある、Makefileとmake.cをubuntu環境のRaspberry pi 4 model Bの中に作成します。　
 次に次のようなコマンドを実行します。  
-$ make  
+`$ make  
 $ sudo insmod myled.ko  
-$ sudo chmod 666 /dev/myled0  
+$ sudo chmod 666 /dev/myled0 ` 
 
 
 実行できたら、次のようなコマンドでLEDを点灯したり消灯したりすることができます。
 
 ・すべてのLEDを消灯   
-$ echo 0 >/dev/myled  
+`$ echo 0 >/dev/myled ` 
 
 ・LED1を点灯  
-$ echo 1 >/dev/myled  
+`$ echo 1 >/dev/myled ` 
 
 ・LED2を点灯  
-$ echo 2 >/dev/myled  
+`$ echo 2 >/dev/myled ` 
 
 ・LED3を点灯  
-$ echo 3 >/dev/myled  
+`$ echo 3 >/dev/myled  `
 
 ・すべてのLEDを点灯  
-$ echo 4 >/dev/myled  
+`$ echo 4 >/dev/myled ` 
 
 ・LED1を消灯  
-$ echo 5 >/dev/myled  
+`$ echo 5 >/dev/myled ` 
 
 ・LED2を消灯  
-$ echo 6 >/dev/myled  
+`$ echo 6 >/dev/myled  `
 
 ・LED3を消灯  
-$ echo 7 >/dev/myled 
+`$ echo 7 >/dev/myled  `
 
 使用し終わったら次のようなコマンドを実行してください。    
-$ sudo rmmod myled  
+`$ sudo rmmod myled  `
 
 
-#実行動画  
+# 実行動画  
 https://youtu.be/CmudLQUuPwc
 
-#ライセンス  
+# ライセンス  
 https://github.com/Takuya0510/myled/blob/main/COPYING
 
