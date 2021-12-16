@@ -64,8 +64,8 @@
 
 
 # 実行動画  
-[Youtube](https://youtu.be/CmudLQUuPwc)
+Youtube (https://youtu.be/CmudLQUuPwc)  
 
 # ライセンス  
-[COPYING](https://github.com/Takuya0510/myled/blob/main/COPYING)
+[COPYING](https://github.com/Takuya0510/myled/blob/main/COPYING)  
 
