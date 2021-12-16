@@ -66,5 +66,5 @@
 [COPYING](https://github.com/Takuya0510/myled/blob/main/COPYING)  
 
 # 実行動画  
-Youtube (https://youtu.be/CmudLQUuPwc)  
+[Youtube LED デバイスドライバー (ロボットシステム学 課題1)](https://youtu.be/CmudLQUuPwc)  
 
