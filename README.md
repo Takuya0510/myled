@@ -17,7 +17,7 @@
 # 回路図　　　　
 ![EPSON001](https://user-images.githubusercontent.com/92074076/146102391-745d32bd-ee30-47b6-9278-a9252a092b44.JPG)  
 
-# 配線図　
+# 写真　
 ![写真 2021-12-15 2 33 28](https://user-images.githubusercontent.com/92074076/146102575-dc29f36f-8f6b-4149-b6ae-3f1180e335e2.jpg)　　
 
 # Raspberry pi 4 model B ピン情報
