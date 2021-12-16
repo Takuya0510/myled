@@ -6,7 +6,7 @@
 ・OS: ubuntu 20.04.3 LTS  
 
 
-# 使用したもの  
+# 必要なもの  
 ・Raspberry pi 4 model B  
 ・青色LED × 3  
 ・抵抗120Ω × 3  
