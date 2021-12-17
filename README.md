@@ -62,7 +62,7 @@
 `$ sudo rmmod myled`  
 
 # ライセンス  
-[COPYING](https://github.com/Takuya0510/myled/blob/main/COPYING)  
+GNU General Public License v3.0  
 
 # 実行動画 
 Youtube  
