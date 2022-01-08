@@ -25,7 +25,8 @@
 
 
 # 動作方法  
-まず、(https://github.com/Takuya0510/myled) に置いてある、Makefileとmake.cをubuntu環境のRaspberry pi 4 model Bの中に作成します。  次に次のようなコマンドを実行します。  
+まず、(https://github.com/Takuya0510/myled) に置いてある、Makefileとmake.cをubuntu環境のRaspberry pi 4 model Bの中に作成します。  
+次に次のようなコマンドを実行します。  
 `$ make`  
 `$ sudo insmod myled.ko`  
 `$ sudo chmod 666 /dev/myled0`  
